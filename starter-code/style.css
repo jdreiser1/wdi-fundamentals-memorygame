@@ -30,6 +30,12 @@ footer {
   float: left;
   margin: 8%;
 }
+
+img {
+  max-height: 200px;
+  max-width: 150px;
+}
+
 nav {
   background-color: #808080;
 }
